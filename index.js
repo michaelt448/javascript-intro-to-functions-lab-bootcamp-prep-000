@@ -1,3 +1,3 @@
-function shout(String word){
+function shout(string){
   
 }
